@@ -1,48 +1,51 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Passionate and driven junior developer, with a background in Economics and business development.
+
+Having spent time working for a rehabilitation company, I have recently moved into the world of software development and in doing so have discovered a genuine passion for the creativity and problem solving nature involved.
+
+I am looking for the opportunity to continue my learning and development and share ideas with equally passionate people, working on new and exciting projects.
 
 ## Skills
 
-#### This Skill
+Fast Learning
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Having started the Makers Academy coding bootcamp with absolutely no prior coding experience, I learnt end-to-end web development using ruby-on-rails and Angular JS, with full test driven design and following agile principles. Over the course of 12 weeks I have become confident using Ruby and Javascript, as well as common frameworks and relational databases. Now that I have a strong and well-principled grounding, I am excited to see what else I can learn over the coming months!
 
-- Experience
-- Achievements
-- Evidence
+Working in a team
 
-#### Another Skill
+Worked in a 4 person team for the final project at Makers Academy, which involved pairing daily within our group and collaborating via a waffle board. This also taught me a lot about using branching in Github, and resolving lovely merge conflicts.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Business Experience
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Having spent approximately 5 years working for a rehabilitation company, I have a great deal of experience in an office environment. I developed skills in working with customers and clients, as well as being responsible for the training and onboarding of new members of staff.
+
+I was also solely responsible for managing a large contract with a customer, which involved a great deal of responsibility and working to weekly deadlines.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (08/06/2015 to 28/08/2015)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Very selective, intense coding bootcamp
+- Learnt how to problem-solve, and work independently as well as in a team
+- A focus on solid design principles and Software Craftsmanship, with full TDD and Agile best practices
+- Very fast-paced, with an emphasis on learning to learn
+- Covered a multitude of technologies, around the primary languages of Ruby and Javascript
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Exeter University (Sept '05 to July '08)
+- Studied Business Economics - unfortunately did not complete final year due to ill health
+- Obtained 3rd highest score in second year module regarding business logic
+- Wrote a video games blog (sadly now lost in the ether), incorporating Google Adsense
 
 #### Any other qualifications
+- AAB at A Level, 10 GCSEs (9 A* - A)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+The Injury Care Clinics Ltd (TICCS) (Jan 2010 - May 2015)
+
+Investigations Assistant  
+
+Royal Mail (June '06 to Sept '07, during holidays)
+
+Post Sorter 
